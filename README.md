@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src= "https://github-profile-trophy.vercel.app/?username=engglauciodev" alt="engglauciodev" /></a> </p>
 
-- 🔭 Atualmente, busco por novas oportunidades como DBA ORACLE JR. [DBA ORACLE DATABASE 19OC](https://www.hotmart.com/pt-BR/club/dbaocm)
+- 🔭 Atualmente, busco novas oportunidades como DBA ORACLE JR. [DBA ORACLE DATABASE 19OC](https://www.hotmart.com/pt-BR/club/dbaocm)
 
 - 🌱 Estudando e Projetando em Banco de Dados Oracle Database. **Em busca da certificação Oracle Database 190c - pela ORACLE**
 
@@ -29,9 +29,11 @@
 
 <p><img align="left" src="https://github-readme- stats.vercel.app/api/top-langs?username=engglauciodev&show_icons=true&locale=en&layout=compact" alt="engglauciodev" /></p>
 
-<p> <img align="center" src="https: //github-readme-stats.vercel.app/api?username=engglauciodev&show_icons=true&locale=en" alt="engglauciodev" /></p>
+<p> <img align="center" src="https: //github-readme-stats.vercel.app/api?username=engglauciodev&show_icons=true&locale=en" alt="engglauciodev" /></p>
 
 <p><img align="center" src="https:// github-readme-streak-stats.herokuapp.com/?user=engglauciodev&" alt="engglauciodev" /></p>
+
+
 
 
 <!---
