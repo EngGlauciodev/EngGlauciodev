@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src= "https://github-profile-trophy.vercel.app/?username=engglauciodev" alt="engglauciodev" /></a> </p>
 
-- 🔭 Atualmente, busco novas oportunidades como DBA ORACLE JR. [DBA ORACLE DATABASE 19OC](https://www.hotmart.com/pt-BR/club/dbaocm)
+- 🔭 Atualmente, busco por novas oportunidades como DBA ORACLE JR. [DBA ORACLE DATABASE 19OC](https://www.hotmart.com/pt-BR/club/dbaocm)
 
 - 🌱 Estudando e Projetando em Banco de Dados Oracle Database. **Em busca da certificação Oracle Database 190c - pela ORACLE**
 
