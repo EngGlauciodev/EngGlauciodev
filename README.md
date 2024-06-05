@@ -14,7 +14,7 @@
 </p>
 
 - 🔭 Atualmente, busco novas oportunidades como DBA ORACLE JR. [DBA ORACLE DATABASE 19OC](https://www.hotmart.com/pt-BR/club/dbaocm)
-- 🌱 Estudando e Projetando em Banco de Dados Oracle Database. **Em busca da certificação Oracle Database 190c - pela ORACLE**
+- 🌱 Estudando e Projetando em Banco de Dados Oracle Database. **Em busca da certificação Oracle Database 19oc - pela ORACLE**
 - 👯 Também compartilho conteúdo em minha home page no LinkedIn [LinkedIn](https://www.linkedin.com/in/glaucio-santos-engenheiro2020/)
 - 👨‍💻 Todos os meus projetos tenho organizado pela plataforma do GitHub [https://github.com/EngGlauciodev](https://github.com/EngGlauciodev)
 - 💬 Pergunte-me sobre **Linux, SQL, Power BI, Python, nuvem Azure, Oracle Database**
