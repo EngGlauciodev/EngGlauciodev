@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, meu nome é Glaucio Santos</h1>
 <h3 align="center">
-  Bem-vindo! Sou @EngGlauciodev formado em Engenharia, e atualmente estudante da área de Ciência de Dados (Wyden)/Especialização em DBA ORACLE DATABASE, pela Instituição DBAOCM EDUCATION. Recentemente concluí o bootcamp em Python para análise de dados pela DIO.
+  Bem-vindo! Sou @EngGlauciodev formado em Engenharia, entusiasta da área de Ciência de Dados (Wyden)/Especialização em  Oracle Database Administration, pela Instituição DBAOCM EDUCATION. 
 </h3>
 
 <p align="left">
